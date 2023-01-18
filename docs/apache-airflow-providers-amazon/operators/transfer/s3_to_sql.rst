@@ -15,9 +15,9 @@
     specific language governing permissions and limitations
     under the License.
 
-============================
+================
 Amazon S3 to SQL
-============================
+================
 
 Use the ``S3ToSqlOperator`` transfer to copy data from an Amazon Simple Storage Service (S3)
 file into an existing SQL table. By providing a parser function which is applied to the
@@ -35,7 +35,7 @@ Operators
 .. _howto/operator:S3ToSqlOperator:
 
 Amazon S3 To SQL Transfer Operator
-==============================================
+==================================
 
 To get more information about this operator visit:
 :class:`~airflow.providers.amazon.aws.transfers.s3_to_sql.S3ToSqlOperator`
